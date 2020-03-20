@@ -1,3 +1,5 @@
+package com.techie.demo;
+
 public class PatternMatchingDemo {
 
     public static void main(String[] args){

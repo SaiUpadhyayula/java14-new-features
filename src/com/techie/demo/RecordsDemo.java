@@ -1,5 +1,6 @@
-import model.Employee;
-import model.EmployeeRecord;
+package com.techie.demo;
+
+import com.techie.demo.model.EmployeeRecord;
 
 import java.math.BigDecimal;
 
